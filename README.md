@@ -1,4 +1,4 @@
-# Hi, I'm Tej Singh Raajpurohit [About me] (https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/about/)👋  
+# Hi, I'm Tej Singh Raajpurohit [About me](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/about/)👋  
 ### Business Analyst | AI Product Analyst | Healthcare & Life Sciences
 
 I specialize in translating complex healthcare and life sciences problems into clear requirements, processes, and AI-enabled product definitions.  
@@ -53,7 +53,7 @@ Designed an AI-enabled **Revenue Cycle Management** platform focused on claims s
 
 **Skills:** AI Product Requirements · RCM Domain · Process Analysis · Agile · API Concepts  
 
-📁 *Repo suggestion:* `ai-healthcare-rcm-platform-ba-portfolio`
+📁 *Repo suggestion:* `ai-healthcare-rcm-platform-ba-portfolio`(https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/rcm/)
 
 ---
 
@@ -70,7 +70,7 @@ End-to-end BA work for a **Clinical Trial Management System** covering study set
 
 **Skills:** Requirements Analysis · Stakeholder Management · Process Modeling · BPMN · UAT · Regulatory Awareness  
 
-📁 *Repo suggestion:* `clinical-trial-management-system-ba-portfolio`
+📁 *Repo suggestion:* `clinical-trial-management-system-ba-portfolio`(https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/ctms/)
 
 ---
 
@@ -87,7 +87,7 @@ Translated business and operational needs into a governed **healthcare analytics
 
 **Skills:** KPI Development · Dashboard Requirements · Data Analysis · Power BI · UAT / Validation  
 
-📁 *Repo suggestion:* `healthcare-analytics-dashboard-ba-portfolio`
+📁 *Repo suggestion:* `healthcare-analytics-dashboard-ba-portfolio`(https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/analytics/)
 
 ---
 
@@ -106,7 +106,7 @@ From Day-0 business request to full requirements for an **AI-enabled pharmacovig
 
 **Skills:** AI Product BA · Pharmacovigilance Domain · Compliance-aware Design · Process Analysis · Agile  
 
-📁 *Repo suggestion:* `ai-powered-pharmacovigilance-platform-ba-portfolio`
+📁 *Repo suggestion:* `ai-powered-pharmacovigilance-platform-ba-portfolio`(https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/pv/)
 
 ---
 
