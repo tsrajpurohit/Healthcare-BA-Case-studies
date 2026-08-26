@@ -3,8 +3,8 @@
 [📥 My Resume](assets/Tej-Singh-Rajpurohit-Resume.pdf) &nbsp;|&nbsp; [ℹ️ About Me](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/about/) &nbsp;|&nbsp; [🌐 View Portfolio](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/)
 ###
 
-Healthcare and life sciences professional transitioning into Business Analysis, merging domain expertise in pharmacology and regulatory affairs with modern product execution frameworks.
-
+Results-driven Healthcare Domain Professional holding an M.Pharm in Pharmacology with hands-on experience in pharmaceutical Business Development and Regulatory Affairs. Leveraging a strong scientific and operational foundation to transition into Business Analysis and Healthcare Technology. Adept at bridging technical and clinical teams through requirements elicitation, BRD/FRD authoring, process modeling (BPMN), and Agile project delivery. Backed by an extensive portfolio of simulated healthcare tech case studies spanning hospital operations, clinical trials, AI-driven RCM, and analytics.
+###
 This profile showcases a curated set of **end-to-end Business Analysis & AI Product portfolio case studies** across hospital operations, revenue cycle, clinical research, analytics, and pharmacovigilance.
 
 > All projects are **simulated portfolio case studies** created for skill demonstration. They are not based on real commercial client engagements.
