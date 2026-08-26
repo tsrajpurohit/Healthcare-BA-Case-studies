@@ -153,11 +153,11 @@ I’m open to conversations about **Business Analysis**, **AI Product ownership*
 
 -   **LinkedIn Profile**  
     Connect with me professionally to discuss Healthcare Business Analysis and AI initiatives.  
-    [View LinkedIn Profile](https://in.linkedin.com/in/tej-singh-rajpurohit-39071694){ .md-button .md-button--primary target="_blank" }
+    [View LinkedIn Profile](https://in.linkedin.com/in/tej-singh-rajpurohit-39071694)
 
 -   **Portfolio Website**  
     Explore case studies covering HMS, RCM, CTMS, and Healthcare Analytics.  
-    [View Portfolio](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/){ .md-button target="_blank" }
+    [View Portfolio](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/)
 
 </div>
 
