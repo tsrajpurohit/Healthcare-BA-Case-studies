@@ -157,7 +157,8 @@ I’m open to conversations about **Business Analysis**, **AI Product ownership*
 -   **Portfolio Website**  
     [View Portfolio](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/)
 
--  **Email:** Tsrajpurohit322@gmail.com
+-  **Email:**
+     Tsrajpurohit322@gmail.com
 </div>
 
 ---
