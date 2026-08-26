@@ -9,15 +9,15 @@ This profile showcases a curated set of **end-to-end Business Analysis & AI Prod
 
 ---
 
-## 🏥 Healthcare & Life Sciences Portfolio
+## 🏥 Healthcare & Life Sciences Portfolio [View Portfolio](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/)
 
 | # | Project | Focus | Key Skills |
 |---|---------|--------|------------|
-| 1 | [Hospital Management System](#1-hospital-management-system) | Patient Registration, Appointments, Billing | Process Modeling, BRD/FRD, User Stories, UAT |
-| 2 | [AI Healthcare RCM Platform](#2-ai-healthcare-rcm-platform) | Claims, Denials, Coding Assist, AR Prioritization | AI Product Requirements, RCM Domain, Agile Backlog |
-| 3 | [Clinical Trial Management System](#3-clinical-trial-management-system) | Sites, Subjects, Visits, Compliance | Stakeholder Mgmt, BPMN-style Flows, NFR, Validation |
-| 4 | [Healthcare Analytics Dashboard](#4-healthcare-analytics-dashboard) | KPIs, Executive & Operational Dashboards | KPI Design, Power BI, Data Validation, Storytelling |
-| 5 | [AI-Powered Pharmacovigilance Platform](#5-ai-powered-pharmacovigilance-platform) | Case Processing, Literature, Signal Detection | AI + PV Domain, Human-in-the-Loop, Compliance |
+| 1 | [Hospital Management System](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/hms/) | Patient Registration, Appointments, Billing | Process Modeling, BRD/FRD, User Stories, UAT |
+| 2 | [AI Healthcare RCM Platform](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/rcm/) | Claims, Denials, Coding Assist, AR Prioritization | AI Product Requirements, RCM Domain, Agile Backlog |
+| 3 | [Clinical Trial Management System](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/ctms/) | Sites, Subjects, Visits, Compliance | Stakeholder Mgmt, BPMN-style Flows, NFR, Validation |
+| 4 | [Healthcare Analytics Dashboard](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/analytics/) | KPIs, Executive & Operational Dashboards | KPI Design, Power BI, Data Validation, Storytelling |
+| 5 | [AI-Powered Pharmacovigilance Platform](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/pv/) | Case Processing, Literature, Signal Detection | AI + PV Domain, Human-in-the-Loop, Compliance |
 
 ---
 
@@ -152,11 +152,9 @@ I’m open to conversations about **Business Analysis**, **AI Product ownership*
 <div class="grid cards" markdown>
 
 -   **LinkedIn Profile**  
-    Connect with me professionally to discuss Healthcare Business Analysis and AI initiatives.  
     [View LinkedIn Profile](https://in.linkedin.com/in/tej-singh-rajpurohit-39071694)
 
 -   **Portfolio Website**  
-    Explore case studies covering HMS, RCM, CTMS, and Healthcare Analytics.  
     [View Portfolio](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/)
 
 </div>
