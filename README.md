@@ -1,7 +1,7 @@
 # Hi, I'm Tej Singh Raajpurohit [About me](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/about/)👋  
 ### Business Analyst | AI Product Analyst | Healthcare & Life Sciences
 - [My Resume](assets/Tej-Singh-Rajpurohit-Resume.pdf)
-  [My Resume](assets/Tej-Singh-Rajpurohit-Resume.pdf){ .md-button .md-button--primary } [About Me](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/about/){ .md-button } [View Portfolio](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/){ .md-button }
+ [📥 My Resume](assets/Tej-Singh-Rajpurohit-Resume.pdf){ .md-button .md-button--primary } [ℹ️ About Me](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/about/){ .md-button } [🌐 View Portfolio](https://tsrajpurohit.github.io/healthcare-ba-ai-portfolio-/){ .md-button }
 I specialize in translating complex healthcare and life sciences problems into clear requirements, processes, and AI-enabled product definitions.  
 
 This profile showcases a curated set of **end-to-end Business Analysis & AI Product portfolio case studies** across hospital operations, revenue cycle, clinical research, analytics, and pharmacovigilance.
